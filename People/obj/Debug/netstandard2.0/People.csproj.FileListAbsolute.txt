@@ -1,0 +1,27 @@
+C:\Xamarin\CloneFiles\New folder\mslearn-xamarin-store-data-sqlite\src\exercise1\final\People\bin\Debug\netstandard2.0\People.deps.json
+C:\Xamarin\CloneFiles\New folder\mslearn-xamarin-store-data-sqlite\src\exercise1\final\People\bin\Debug\netstandard2.0\People.dll
+C:\Xamarin\CloneFiles\New folder\mslearn-xamarin-store-data-sqlite\src\exercise1\final\People\bin\Debug\netstandard2.0\People.pdb
+C:\Xamarin\CloneFiles\New folder\mslearn-xamarin-store-data-sqlite\src\exercise1\final\People\obj\Debug\netstandard2.0\People.csprojAssemblyReference.cache
+C:\Xamarin\CloneFiles\New folder\mslearn-xamarin-store-data-sqlite\src\exercise1\final\People\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Xamarin\CloneFiles\New folder\mslearn-xamarin-store-data-sqlite\src\exercise1\final\People\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Xamarin\CloneFiles\New folder\mslearn-xamarin-store-data-sqlite\src\exercise1\final\People\obj\Debug\netstandard2.0\People.AssemblyInfoInputs.cache
+C:\Xamarin\CloneFiles\New folder\mslearn-xamarin-store-data-sqlite\src\exercise1\final\People\obj\Debug\netstandard2.0\People.AssemblyInfo.cs
+C:\Xamarin\CloneFiles\New folder\mslearn-xamarin-store-data-sqlite\src\exercise1\final\People\obj\Debug\netstandard2.0\People.csproj.CoreCompileInputs.cache
+C:\Xamarin\CloneFiles\New folder\mslearn-xamarin-store-data-sqlite\src\exercise1\final\People\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Xamarin\CloneFiles\New folder\mslearn-xamarin-store-data-sqlite\src\exercise1\final\People\obj\Debug\netstandard2.0\People.dll
+C:\Xamarin\CloneFiles\New folder\mslearn-xamarin-store-data-sqlite\src\exercise1\final\People\obj\Debug\netstandard2.0\People.pdb
+C:\Xamarin\CloneFiles\New folder\mslearn-xamarin-store-data-sqlite\src\exercise1\final\People\obj\Debug\netstandard2.0\Models\App.xaml.g.cs
+C:\Xamarin\CloneFiles\New folder\mslearn-xamarin-store-data-sqlite\src\exercise1\final\People\obj\Debug\netstandard2.0\Models\MainPage.xaml.g.cs
+C:\Xamarin\Assignment8\People\bin\Debug\netstandard2.0\People.deps.json
+C:\Xamarin\Assignment8\People\bin\Debug\netstandard2.0\People.dll
+C:\Xamarin\Assignment8\People\bin\Debug\netstandard2.0\People.pdb
+C:\Xamarin\Assignment8\People\obj\Debug\netstandard2.0\People.csprojAssemblyReference.cache
+C:\Xamarin\Assignment8\People\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Xamarin\Assignment8\People\obj\Debug\netstandard2.0\Views\TShirtPage.xaml.g.cs
+C:\Xamarin\Assignment8\People\obj\Debug\netstandard2.0\Views\ViewTShirtPage.xaml.g.cs
+C:\Xamarin\Assignment8\People\obj\Debug\netstandard2.0\People.AssemblyInfoInputs.cache
+C:\Xamarin\Assignment8\People\obj\Debug\netstandard2.0\People.AssemblyInfo.cs
+C:\Xamarin\Assignment8\People\obj\Debug\netstandard2.0\People.csproj.CoreCompileInputs.cache
+C:\Xamarin\Assignment8\People\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Xamarin\Assignment8\People\obj\Debug\netstandard2.0\People.dll
+C:\Xamarin\Assignment8\People\obj\Debug\netstandard2.0\People.pdb
